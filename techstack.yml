@@ -1,7 +1,8 @@
 repo_name: abenteuerzeit/movies-sql
 report_id: 91506892b2af248454f3462e094262c3
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-12T10:23:58+00:00'
+timestamp: '2024-01-05T08:49:05+00:00'
 requested_by: abenteuerzeit
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/abenteuerzeit/movies-sql/blob/master/films.sql
   detection_source: films.sql
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-30 11:31:18.000000000 Z
@@ -26,4 +28,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/abenteuerzeit/movies-sql
   detection_source: Repo Metadata
